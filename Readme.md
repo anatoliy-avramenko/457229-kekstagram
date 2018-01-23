@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Anatoliy Avramenko](https://up.htmlacademy.ru/javascript/12/user/457229).
-* Наставник: `Неизвестно`.
+* Наставник: [Энчъ ван Пюпиркочич](https://up.htmlacademy.ru/javascript/12/user/457229.
 
 ---
 
